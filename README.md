@@ -1,2 +1,3 @@
-# clion-gcc
+# clion-cpp-env
+
 CLion gcc docker image
