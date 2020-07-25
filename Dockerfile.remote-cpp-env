@@ -19,6 +19,7 @@ FROM gcc:10.2.0
 RUN apt-get update \
   && apt-get install -y ssh \
       build-essential \
+      gdb \
       clang \
       cmake \
       rsync \
